@@ -1,0 +1,1 @@
+# request send through the api and fetch from data.json and render the page .
